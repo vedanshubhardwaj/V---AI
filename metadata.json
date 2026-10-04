@@ -1,0 +1,8 @@
+{
+  "name": "V - Personal AI Assistant",
+  "description": "A modern, futuristic personal AI assistant named V with dynamic state visualization and intelligent responses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
